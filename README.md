@@ -22,7 +22,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Photo of Website Functionality
 The following Photo shows the web application's appearance and functionality:
 
-![photo of how website looks](./assets/images/hw8)
+![photo of how website looks](./assets/images/hw8.JPG)
 
 
 # Explanation of what was done
